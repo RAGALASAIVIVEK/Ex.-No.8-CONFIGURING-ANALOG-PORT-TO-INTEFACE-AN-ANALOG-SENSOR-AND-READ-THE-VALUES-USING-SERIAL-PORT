@@ -331,7 +331,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![v1 8e](https://github.com/user-attachments/assets/e01f815b-d830-4b85-a9b5-7a90d3378001)
 
-![v2 8e](https://github.com/user-attachments/assets/7c239671-1304-4430-9659-46f30b34d326)
+![v2 8e](https://github.com/user-attachments/assets/2c251dfa-72da-4c55-85c6-501cc4f75e88)
  
 ## Output  :
 
